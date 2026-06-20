@@ -1,4 +1,4 @@
-# CV React de Oscar Murguias
+# CV React de Oscar Murguia
 
 Proyecto estático hecho con React y Vite para presentar un CV en una sola página, con secciones, animaciones suaves y foto de perfil.
 

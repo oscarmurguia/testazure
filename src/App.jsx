@@ -57,7 +57,7 @@ function App() {
       <section className="hero card reveal">
         <div className="hero-copy">
           <p className="eyebrow">Currículum Vitae</p>
-          <h1>Oscar Murguias</h1>
+          <h1>Oscar Murguia</h1>
           <h2>DevOps Engineer</h2>
           <p className="summary">
             Especialista en automatización de infraestructura, pipelines de entrega continua y
@@ -73,7 +73,7 @@ function App() {
         </div>
 
         <div className="profile-frame">
-          <img className="profile-image" src={profileImage} alt="Foto de perfil de Oscar Murguias" />
+          <img className="profile-image" src={profileImage} alt="Foto de perfil de Oscar Murguia" />
         </div>
       </section>
 
